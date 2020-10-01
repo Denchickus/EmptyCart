@@ -367,6 +367,7 @@ body{
 .wrapper{
   /* display: flex;
   align-items: center; */
+  font-family: "Proxima Nova Rg";
   background-color: rgba(40, 41, 60, 0.04);
   min-height: 580px;
   width: 360px;
